@@ -10,6 +10,7 @@ def is_prime(func):
                 break
         print(result)
         return func_result
+
     return wrapper
 
 
